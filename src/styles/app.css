@@ -1,3 +1,23 @@
+@media (max-width: 767px) and (min-width: 320px) {
+  .app {
+    min-height: 420vh;
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .app {
+      min-height: 200vh;
+    }
+  }
+
+  @media (min-width: 1024px) and (max-width: 1365px) {
+    .app {
+    min-height: 150vh;
+    }
+  }
+
+
+}
+
 .app {
     min-height: 190vh;
     display: flex;
