@@ -1,0 +1,35 @@
+.theme-toggle {
+  position: absolute;
+}
+
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .theme-toggle {
+    top: 36px;
+    left: 278px;
+  }
+}
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .theme-toggle{
+    top: 57px;
+    left: 714px;
+  }
+}
+
+
+@media (min-width: 1024px) and (max-width: 1365px) {
+  .theme-toggle {
+    top: 47px;
+    left: 962px;
+  }
+}
+
+
+@media (min-width: 1366px) {
+  .theme-toggle {
+    top: 57px;
+    left: 1223px;
+  }
+}

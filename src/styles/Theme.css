@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .light-theme {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-theme {
+    background-color: black;
+    color: white;
+  }
+  
+  .container button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  
+  .container button img {
+    width: 100%;
+    height: 100%;
+  }
+  
+
+  @media (max-width: 767px) {
+    .container {
+      align-items: flex-start;
+    }
+  
+    .light-theme .black-background {
+      min-height: 100vh;
+      max-height: 3171px;
+    }
+  
+    .dark-theme .black-background {
+      min-height: 100vh;
+      max-height: 3171px;
+    }
+  }
+  
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .light-theme .black-background {
+      height: 1948px;
+    }
+  
+    .dark-theme .black-background {
+      height: 1948px;
+    }
+  }
+  
+
+  @media (min-width: 1024px) and (max-width: 1365px) {
+    .light-theme .black-background {
+      height: 1346px;
+    }
+  
+    .dark-theme .black-background {
+      height: 1346px;
+    }
+  }
+  
+
+  @media (min-width: 1366px) {
+    .light-theme .black-background {
+      height: 1562px;
+    }
+  
+    .dark-theme .black-background {
+      height: 1562px;
+    }
+  }
+  

@@ -1,0 +1,36 @@
+.logo {
+    position: absolute;
+  }
+  
+
+  @media (min-width: 320px) and (max-width: 767px) {
+    .logo {
+      top: 25px;
+      left: 20px;
+    }
+  }
+  
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .logo {
+      top: 35px;
+      left: 34px;
+    }
+  }
+  
+
+  @media (min-width: 1024px) and (max-width: 1365px) {
+    .logo {
+      top: 35px;
+      left: 42px;
+    }
+  }
+  
+
+  @media (min-width: 1366px) {
+    .logo {
+      top: 35px;
+      left: 123px;
+    }
+  }
+  
