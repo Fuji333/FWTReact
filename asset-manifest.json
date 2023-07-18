@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/FWTReact/static/css/main.16691124.css",
+    "main.css": "/FWTReact/static/css/main.58312a9a.css",
     "main.js": "/FWTReact/static/js/main.81bd48de.js",
     "static/media/Frame 2228.svg": "/FWTReact/static/media/Frame 2228.7efac3cbec09ed1764a502709e1ae415.svg",
     "static/media/Frame 228.svg": "/FWTReact/static/media/Frame 228.403f581a5acb220ed1371178ff780034.svg",
     "static/media/Frame 227.svg": "/FWTReact/static/media/Frame 227.936e086d4f0a07a7626931eeabbac2ab.svg",
     "index.html": "/FWTReact/index.html",
     "static/media/Vector55.svg": "/FWTReact/static/media/Vector55.121a2a65078f5ce5916791d399355e87.svg",
-    "main.16691124.css.map": "/FWTReact/static/css/main.16691124.css.map",
+    "main.58312a9a.css.map": "/FWTReact/static/css/main.58312a9a.css.map",
     "main.81bd48de.js.map": "/FWTReact/static/js/main.81bd48de.js.map"
   },
   "entrypoints": [
-    "static/css/main.16691124.css",
+    "static/css/main.58312a9a.css",
     "static/js/main.81bd48de.js"
   ]
 }
