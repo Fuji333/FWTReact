@@ -2,24 +2,27 @@
   .app {
     min-height: 420vh;
   }
+}
 
   @media (min-width: 768px) and (max-width: 1023px) {
     .app {
-      min-height: 200vh;
+    min-height: 190vh;
     }
   }
 
   @media (min-width: 1024px) and (max-width: 1365px) {
     .app {
-    min-height: 150vh;
+    min-height: 100vh;
     }
   }
 
-
+@media (min-width: 1366px) {
+  .app {
+    min-height: 120vh;
+  }
 }
 
 .app {
-    min-height: 190vh;
     display: flex;
     flex-direction: column;
     align-items: center;
