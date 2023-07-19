@@ -12,17 +12,18 @@
 
   @media (min-width: 1024px) and (max-width: 1365px) {
     .app {
-    min-height: 100vh;
+    min-height: 160vh;
     }
   }
 
 @media (min-width: 1366px) {
   .app {
-    min-height: 120vh;
+    min-height: 170vh;
   }
 }
 
 .app {
+
     display: flex;
     flex-direction: column;
     align-items: center;
